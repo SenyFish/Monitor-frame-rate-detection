@@ -1,0 +1,14 @@
+# IDEs and editors
+.idea/
+
+# Build and distribution artifacts
+build/
+dist/
+*.spec
+
+# Data files
+refresh_rate_stats.json
+
+# Python cache
+__pycache__/
+*.pyc
